@@ -1,0 +1,12 @@
+./
+│   .git/
+│   .gitignore
+│   README.md
+│   config/
+│   config.go
+│   directory-tree-cli
+│   directory-tree-cli.txt
+│   go.mod
+│   main.go
+│   tree/
+│   tree.go
